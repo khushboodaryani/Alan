@@ -80,26 +80,21 @@ const App = () => {
             Created by
             <a
               className={classes.link}
-              href="https://www.linkedin.com/in/adrian-hajdin/"
+              href="https://in.linkedin.com/in/khushboo-daryani-b81214212"
             >
               {" "}
-              Adrian Hajdin
+              Khushboo Daryani
             </a>{" "}
             -
             <a
               className={classes.link}
-              href="http://youtube.com/javascriptmastery"
+              href="https://x.com/khushboodaryani"
             >
               {" "}
-              JavaScript Mastery
+              KD
             </a>
           </Typography>
-          <img
-            className={classes.image}
-            src={"/logo.jpg"}
-            height="50px"
-            alt="JSMastery logo"
-          />
+         
         </div>
       ) : null}
     </div>
